@@ -1,0 +1,4 @@
+s = "string"
+x = int(len(s)-1)
+for i in range(x)):
+  s[i] = s[i].swapcase()
